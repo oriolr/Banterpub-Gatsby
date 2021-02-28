@@ -12,6 +12,7 @@ const AboutUsPage = () => (
     <p>Ama Aningo</p>
     <p>Adam Carnegie</p>
     <p>Jonathan Alingu</p>
+    <p>Rosler Oriol</p>
 </Layout>
 
 )
